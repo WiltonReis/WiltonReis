@@ -5,8 +5,7 @@
 
 ### 👨‍💻 Sobre mim
 - 🚀 Focado atualmente em **Java** e **Spring Boot**  
-- 📱 Interesse em **desenvolvimento web**, **automação** e **aplicativos**  
-- 🛠 Experiência com **bancos de dados**: MongoDB, PostgreSQL e MySQL
+- 📱 Interesse em **desenvolvimento web**, **automação** e **aplicativos**
 - ✉️ Contato: **wiltonfilho0825@gmail.com**
 
 ---
