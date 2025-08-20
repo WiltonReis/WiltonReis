@@ -1,7 +1,10 @@
-<h1 align="center">Olá! Me chamo Wilton, sou estudante de Sistemas de Informação (2º período) e apaixonado por tecnologia.</h1>
 <h3 align="center">💻 Atuo mais na área de back-end, com foco em desenvolvimento web e aplicativos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiltonreis&label=Profile%20views&color=0e75b6&style=flat" alt="wiltonreis" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wiltonreis" alt="wiltonreis" /></a> </p>
+
+- ✉️ Fale comigo por aqui **wiltonfilho0825@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
