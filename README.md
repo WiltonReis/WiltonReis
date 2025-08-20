@@ -1,6 +1,9 @@
+<h1 align="center">Wilton Reis</h1>
 <h3 align="center">💻 Atuo mais na área de back-end, com foco em desenvolvimento web e aplicativos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiltonreis&label=Profile%20views&color=0e75b6&style=flat" alt="wiltonreis" /> </p>
+
+- 💻 Atualmente focado em **Java**
 
 - ✉️ Fale comigo por aqui **wiltonfilho0825@gmail.com**
 
